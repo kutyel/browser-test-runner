@@ -1,5 +1,3 @@
-import './styles.css'
-
 const btn = document.querySelector('.start')
 const ul = document.querySelector('.tests-to-run')
 const pass = document.querySelector('.passed')
